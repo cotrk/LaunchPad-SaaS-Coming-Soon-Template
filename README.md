@@ -1,5 +1,7 @@
 # LaunchPad: Free Coming Soon SaaS Template
 
+![LaunchPad Preview](https://your-image-url-here.com/launchpad-preview.png)
+
 LaunchPad is a modern, responsive, and customizable coming soon page template designed for SaaS startups and product launches. Built with Next.js, Tailwind CSS, and Framer Motion, it offers a sleek design and smooth animations out of the box.
 
 ## 🚀 Features
@@ -26,4 +28,4 @@ LaunchPad is a modern, responsive, and customizable coming soon page template de
 ## 🚀 Quick Start
 
 1. Clone this repository:
-https://github.com/cotrk/launchpad-saas-coming-soon-template.git
+` https://github.com/cotrk/launchpad-saas-coming-soon-template.git `
