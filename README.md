@@ -1,1 +1,1 @@
-# launchpad-saas-coming-soon-template
+# LaunchPad - SaaS Coming Soon Template
