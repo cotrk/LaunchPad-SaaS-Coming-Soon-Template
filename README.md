@@ -28,5 +28,4 @@ LaunchPad is a modern, responsive, and customizable coming soon page template de
 ## 🚀 Quick Start
 
 1. Clone this repository:
-https://github.com/cotrk/launchpad-saas-coming-soon-template.git
-
+`https://github.com/cotrk/launchpad-saas-coming-soon-template.git`
